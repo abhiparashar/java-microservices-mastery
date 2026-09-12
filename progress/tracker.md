@@ -28,7 +28,7 @@ ship incrementally. A phase with no guide yet can still be studied from its entr
 | [8 — Observability and operations](../phases/phase-08-observability-and-operations.md) | published | [ ] | [ ] | [ ] | [ ] | |
 | [9 — Containers, Kubernetes, cloud](../phases/phase-09-containers-kubernetes-cloud.md) | published | [ ] | [ ] | [ ] | [ ] | |
 | [10 — Delivery and platform engineering](../phases/phase-10-delivery-and-platform-engineering.md) | published | [ ] | [ ] | [ ] | [ ] | |
-| 11 — Testing strategy | pending | [ ] | [ ] | [ ] | [ ] | |
+| [11 — Testing strategy](../phases/phase-11-testing-strategy.md) | published | [ ] | [ ] | [ ] | [ ] | |
 | 12 — Performance, scale, cost | pending | [ ] | [ ] | [ ] | [ ] | |
 | 13 — Architecture leadership and migration | pending | [ ] | [ ] | [ ] | [ ] | |
 

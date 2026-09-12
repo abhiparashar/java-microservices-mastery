@@ -4,7 +4,7 @@ Total effort: roughly **1,600–1,800 focused hours**. "Focused" means building 
 watching videos. The week numbers below assume ~20 hours per week; see
 [Pacing](#pacing-pick-one-and-be-honest) to convert to your reality.
 
-> Phase guides are published incrementally. Phases 0 through 10 are live; links to later
+> Phase guides are published incrementally. Phases 0 through 11 are live; links to later
 > phases activate as each one is written. The schedule, gates, and pacing below are final and
 > usable today.
 
