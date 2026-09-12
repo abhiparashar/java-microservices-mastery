@@ -30,7 +30,7 @@ ship incrementally. A phase with no guide yet can still be studied from its entr
 | [10 — Delivery and platform engineering](../phases/phase-10-delivery-and-platform-engineering.md) | published | [ ] | [ ] | [ ] | [ ] | |
 | [11 — Testing strategy](../phases/phase-11-testing-strategy.md) | published | [ ] | [ ] | [ ] | [ ] | |
 | [12 — Performance, scale, cost](../phases/phase-12-performance-scale-and-cost.md) | published | [ ] | [ ] | [ ] | [ ] | |
-| 13 — Architecture leadership and migration | pending | [ ] | [ ] | [ ] | [ ] | |
+| [13 — Architecture leadership and migration](../phases/phase-13-architecture-leadership-and-migration.md) | published | [ ] | [ ] | [ ] | [ ] | |
 
 ---
 
