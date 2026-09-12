@@ -18,10 +18,10 @@ ship incrementally. A phase with no guide yet can still be studied from its entr
 | Phase | Guide | Read | Project built | Measured | Drilldown aloud | Date |
 |---|---|---|---|---|---|---|
 | [0 — Distributed systems foundations](../phases/phase-00-distributed-systems-foundations.md) | published | [ ] | [ ] | [ ] | [ ] | |
-| 1 — Service design and DDD | pending | [ ] | [ ] | [ ] | [ ] | |
+| [1 — Service design and DDD](../phases/phase-01-service-design-and-ddd.md) | published | [ ] | [ ] | [ ] | [ ] | |
 | [2 — Spring Boot production core](../phases/phase-02-spring-boot-production-core.md) | published | [ ] | [ ] | [ ] | [ ] | |
 | [3 — Communication and APIs](../phases/phase-03-communication-and-apis.md) | published | [ ] | [ ] | [ ] | [ ] | |
-| 4 — Data and consistency | pending | [ ] | [ ] | [ ] | [ ] | |
+| [4 — Data and consistency](../phases/phase-04-data-and-consistency.md) | published | [ ] | [ ] | [ ] | [ ] | |
 | 5 — Events and streaming | pending | [ ] | [ ] | [ ] | [ ] | |
 | 6 — Resilience engineering | pending | [ ] | [ ] | [ ] | [ ] | |
 | 7 — Security and compliance | pending | [ ] | [ ] | [ ] | [ ] | |
