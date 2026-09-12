@@ -9,30 +9,38 @@ Update the same day you finish something. Retroactive tracking becomes fiction w
 
 ## Phase completion
 
-A phase is done when all four columns are true. Partial credit is how people fool themselves.
+A phase is done when all four study columns are true. Partial credit is how people fool themselves.
 
-| Phase | Read | Project built | Measured | Drilldown aloud | Date |
-|---|---|---|---|---|---|
-| 0 — Distributed systems foundations | [ ] | [ ] | [ ] | [ ] | |
-| 1 — Service design and DDD | [ ] | [ ] | [ ] | [ ] | |
-| 2 — Spring Boot production core | [ ] | [ ] | [ ] | [ ] | |
-| 3 — Communication and APIs | [ ] | [ ] | [ ] | [ ] | |
-| 4 — Data and consistency | [ ] | [ ] | [ ] | [ ] | |
-| 5 — Events and streaming | [ ] | [ ] | [ ] | [ ] | |
-| 6 — Resilience engineering | [ ] | [ ] | [ ] | [ ] | |
-| 7 — Security and compliance | [ ] | [ ] | [ ] | [ ] | |
-| 8 — Observability and operations | [ ] | [ ] | [ ] | [ ] | |
-| 9 — Containers, Kubernetes, cloud | [ ] | [ ] | [ ] | [ ] | |
-| 10 — Delivery and platform engineering | [ ] | [ ] | [ ] | [ ] | |
-| 11 — Testing strategy | [ ] | [ ] | [ ] | [ ] | |
-| 12 — Performance, scale, cost | [ ] | [ ] | [ ] | [ ] | |
-| 13 — Architecture leadership and migration | [ ] | [ ] | [ ] | [ ] | |
+The **Guide** column tracks what is published in this repository, not your progress: phase files
+ship incrementally. A phase with no guide yet can still be studied from its entry in
+[ROADMAP.md](../ROADMAP.md) and the resources listed there.
+
+| Phase | Guide | Read | Project built | Measured | Drilldown aloud | Date |
+|---|---|---|---|---|---|---|
+| [0 — Distributed systems foundations](../phases/phase-00-distributed-systems-foundations.md) | published | [ ] | [ ] | [ ] | [ ] | |
+| 1 — Service design and DDD | pending | [ ] | [ ] | [ ] | [ ] | |
+| [2 — Spring Boot production core](../phases/phase-02-spring-boot-production-core.md) | published | [ ] | [ ] | [ ] | [ ] | |
+| [3 — Communication and APIs](../phases/phase-03-communication-and-apis.md) | published | [ ] | [ ] | [ ] | [ ] | |
+| 4 — Data and consistency | pending | [ ] | [ ] | [ ] | [ ] | |
+| 5 — Events and streaming | pending | [ ] | [ ] | [ ] | [ ] | |
+| 6 — Resilience engineering | pending | [ ] | [ ] | [ ] | [ ] | |
+| 7 — Security and compliance | pending | [ ] | [ ] | [ ] | [ ] | |
+| 8 — Observability and operations | pending | [ ] | [ ] | [ ] | [ ] | |
+| 9 — Containers, Kubernetes, cloud | pending | [ ] | [ ] | [ ] | [ ] | |
+| 10 — Delivery and platform engineering | pending | [ ] | [ ] | [ ] | [ ] | |
+| 11 — Testing strategy | pending | [ ] | [ ] | [ ] | [ ] | |
+| 12 — Performance, scale, cost | pending | [ ] | [ ] | [ ] | [ ] | |
+| 13 — Architecture leadership and migration | pending | [ ] | [ ] | [ ] | [ ] | |
 
 ---
 
 ## Small projects
 
 Record the number, not the feeling. A project with no measurement does not count.
+
+Full specifications (scope, acceptance criteria, the measurement to capture) land in
+`projects/small-projects.md`, which is not published yet. Until then each project's goal and
+exit gate are summarised in the phase guide that owns it — see the phase table above.
 
 | ID | Project | Done | The number you produced |
 |---|---|---|---|
