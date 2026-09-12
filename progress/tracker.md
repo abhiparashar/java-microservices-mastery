@@ -26,7 +26,7 @@ ship incrementally. A phase with no guide yet can still be studied from its entr
 | [6 — Resilience engineering](../phases/phase-06-resilience-engineering.md) | published | [ ] | [ ] | [ ] | [ ] | |
 | [7 — Security and compliance](../phases/phase-07-security-and-compliance.md) | published | [ ] | [ ] | [ ] | [ ] | |
 | [8 — Observability and operations](../phases/phase-08-observability-and-operations.md) | published | [ ] | [ ] | [ ] | [ ] | |
-| 9 — Containers, Kubernetes, cloud | pending | [ ] | [ ] | [ ] | [ ] | |
+| [9 — Containers, Kubernetes, cloud](../phases/phase-09-containers-kubernetes-cloud.md) | published | [ ] | [ ] | [ ] | [ ] | |
 | 10 — Delivery and platform engineering | pending | [ ] | [ ] | [ ] | [ ] | |
 | 11 — Testing strategy | pending | [ ] | [ ] | [ ] | [ ] | |
 | 12 — Performance, scale, cost | pending | [ ] | [ ] | [ ] | [ ] | |
