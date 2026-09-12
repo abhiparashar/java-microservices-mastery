@@ -22,8 +22,8 @@ ship incrementally. A phase with no guide yet can still be studied from its entr
 | [2 — Spring Boot production core](../phases/phase-02-spring-boot-production-core.md) | published | [ ] | [ ] | [ ] | [ ] | |
 | [3 — Communication and APIs](../phases/phase-03-communication-and-apis.md) | published | [ ] | [ ] | [ ] | [ ] | |
 | [4 — Data and consistency](../phases/phase-04-data-and-consistency.md) | published | [ ] | [ ] | [ ] | [ ] | |
-| 5 — Events and streaming | pending | [ ] | [ ] | [ ] | [ ] | |
-| 6 — Resilience engineering | pending | [ ] | [ ] | [ ] | [ ] | |
+| [5 — Events and streaming](../phases/phase-05-events-and-streaming.md) | published | [ ] | [ ] | [ ] | [ ] | |
+| [6 — Resilience engineering](../phases/phase-06-resilience-engineering.md) | published | [ ] | [ ] | [ ] | [ ] | |
 | 7 — Security and compliance | pending | [ ] | [ ] | [ ] | [ ] | |
 | 8 — Observability and operations | pending | [ ] | [ ] | [ ] | [ ] | |
 | 9 — Containers, Kubernetes, cloud | pending | [ ] | [ ] | [ ] | [ ] | |

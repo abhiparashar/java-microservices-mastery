@@ -51,9 +51,9 @@ migration.
 ## The 14 phases
 
 > **Publication status.** This roadmap is written and published one phase at a time, so the
-> content stays dense rather than padded. **Published:** Phases 0, 1, 2, 3 and 4, the tech radar,
-> the ADR template, this index, and the tracker. Links to unpublished phases below resolve once
-> that phase lands — the schedule, dependency graph, and exit criteria for all 14 are already
+> content stays dense rather than padded. **Published:** Phases 0, 1, 2, 3, 4, 5 and 6, the tech
+> radar, the ADR template, this index, and the tracker. Links to unpublished phases below resolve
+> once that phase lands — the schedule, dependency graph, and exit criteria for all 14 are already
 > final.
 
 | Phase | Weeks | Topic | Core output |
