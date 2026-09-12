@@ -1,0 +1,8 @@
+# generation scaffolding (outlines, prompts, model cache) - not part of the deliverable
+.build/
+
+# editors / OS
+.DS_Store
+.idea/
+.vscode/
+*.swp
