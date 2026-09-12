@@ -25,7 +25,7 @@ ship incrementally. A phase with no guide yet can still be studied from its entr
 | [5 — Events and streaming](../phases/phase-05-events-and-streaming.md) | published | [ ] | [ ] | [ ] | [ ] | |
 | [6 — Resilience engineering](../phases/phase-06-resilience-engineering.md) | published | [ ] | [ ] | [ ] | [ ] | |
 | [7 — Security and compliance](../phases/phase-07-security-and-compliance.md) | published | [ ] | [ ] | [ ] | [ ] | |
-| 8 — Observability and operations | pending | [ ] | [ ] | [ ] | [ ] | |
+| [8 — Observability and operations](../phases/phase-08-observability-and-operations.md) | published | [ ] | [ ] | [ ] | [ ] | |
 | 9 — Containers, Kubernetes, cloud | pending | [ ] | [ ] | [ ] | [ ] | |
 | 10 — Delivery and platform engineering | pending | [ ] | [ ] | [ ] | [ ] | |
 | 11 — Testing strategy | pending | [ ] | [ ] | [ ] | [ ] | |
