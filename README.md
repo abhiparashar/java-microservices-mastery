@@ -50,6 +50,11 @@ migration.
 
 ## The 14 phases
 
+> **Publication status.** This roadmap is written and published one phase at a time, so the
+> content stays dense rather than padded. **Published:** Phase 0, the tech radar, the ADR
+> template, this index, and the tracker. Links to unpublished phases below resolve once that
+> phase lands — the schedule, dependency graph, and exit criteria for all 14 are already final.
+
 | Phase | Weeks | Topic | Core output |
 |---|---|---|---|
 | [0](phases/phase-00-distributed-systems-foundations.md) | 1–4 | Distributed systems foundations | Failure-mode fluency, latency math |
