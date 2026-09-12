@@ -29,7 +29,7 @@ ship incrementally. A phase with no guide yet can still be studied from its entr
 | [9 — Containers, Kubernetes, cloud](../phases/phase-09-containers-kubernetes-cloud.md) | published | [ ] | [ ] | [ ] | [ ] | |
 | [10 — Delivery and platform engineering](../phases/phase-10-delivery-and-platform-engineering.md) | published | [ ] | [ ] | [ ] | [ ] | |
 | [11 — Testing strategy](../phases/phase-11-testing-strategy.md) | published | [ ] | [ ] | [ ] | [ ] | |
-| 12 — Performance, scale, cost | pending | [ ] | [ ] | [ ] | [ ] | |
+| [12 — Performance, scale, cost](../phases/phase-12-performance-scale-and-cost.md) | published | [ ] | [ ] | [ ] | [ ] | |
 | 13 — Architecture leadership and migration | pending | [ ] | [ ] | [ ] | [ ] | |
 
 ---
